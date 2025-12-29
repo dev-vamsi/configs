@@ -28,11 +28,11 @@
     "Green Component" : 0.062745101749897003
   },
   "Ansi 1 Color (Dark)" : {
-    "Red Component" : 0.7074432373046875,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0.16300037503242493,
+    "Red Component" : 1,
+    "Color Space" : "P3",
+    "Blue Component" : 0.14488507699275366,
     "Alpha Component" : 1,
-    "Green Component" : 0.23660069704055786
+    "Green Component" : 0.28367215237133081
   },
   "Use Bright Bold" : true,
   "Ansi 9 Color (Light)" : {
@@ -310,7 +310,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.9042816162109375
   },
-  "Animate Movement" : true,
+  "Animate Movement" : false,
   "Non-ASCII Anti Aliased" : true,
   "Ansi 10 Color" : {
     "Red Component" : 0.3450070321559906,
@@ -360,7 +360,7 @@
     "Alpha Component" : 1,
     "Green Component" : 1
   },
-  "Animate Movement Only in Interactive Apps" : true,
+  "Animate Movement Only in Interactive Apps" : false,
   "Ansi 2 Color (Dark)" : {
     "Red Component" : 0,
     "Color Space" : "sRGB",
