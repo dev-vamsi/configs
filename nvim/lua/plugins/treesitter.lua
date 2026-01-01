@@ -11,7 +11,7 @@ return {
         "json",
         "yaml",
         "go",
-      },
+      }, 
       highlight = {
         enable = true,
       },
